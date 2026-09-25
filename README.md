@@ -189,7 +189,7 @@ Vaccination-Data-Analysis/
 ### Python Notebook
 
 ```bash
-git clone https://github.com/<your-username>/Vaccination-Data-Analysis.git
+git clone https://github.com/13msrajput/Vaccination-Analysis.git
 cd Vaccination-Data-Analysis
 
 pip install -r requirements.txt
